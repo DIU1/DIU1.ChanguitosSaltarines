@@ -36,7 +36,7 @@ Miembros
 >>> Describe el plan de User Research (cómo se planteas)  
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
-
+-----
 Hemos decidido hacer el analisis competitivo escogiendo la web base del guion https://escueladeteatroengranada.es/ y la web ...
 
 ![Método UX](img/Persona.png) 1.c Persona
