@@ -1,8 +1,8 @@
 # DIU24
 Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
 
-Grupo: DIU1_01AABB.  Curso: 2023/24 
-Updated: 11/2/2024
+Grupo: DIU1.ChanguitosSaltarines  Curso: 2023/24 
+Updated: 12/02/2024
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -19,9 +19,6 @@ Miembros
  * :bust_in_silhouette:  Joaquín Salas Castillo     🐵
 
 ----- 
-
-
-
 
 
 
