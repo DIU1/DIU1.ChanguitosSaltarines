@@ -7,6 +7,6 @@
 - 2 Personas 
 - 2 User Journey Map  ( 1 por persona)
 - Revisión de Usabilidad 
-![alt](https://github.com/DIU1/DIU1.ChanguitosSaltarines/blob/master/P1/Persona%20%231.png)
+![alt](Persona%20#1.png)
 
 (valoración y conclusiones de esta etapa)
