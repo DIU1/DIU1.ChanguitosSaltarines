@@ -37,7 +37,7 @@ Miembros
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
-Hemos decidido hacer el analisis competitivo escogiendo la web base del guion https://escueladeteatroengranada.es/ y la web ...
+Hemos decidido hacer el analisis competitivo escogiendo la web base del guion https://escueladeteatroengranada.es/ y como competidores hemos elegido uno mas directo que es https://www.escuelapetite.com/ situado aquí mismo en granada y otro a nivel nacional https://estudiocorazza.com/.
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
