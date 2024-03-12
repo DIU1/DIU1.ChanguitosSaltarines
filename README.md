@@ -33,7 +33,15 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+>>> Describe el plan de User Research (cómo se planteas)
+Razones por las cuales los usuarios podrían interesarse por ir a una escuela de teatro podrían ser:
+- Conocer gente nueva y trabajar en equipo
+- Inquietud sobre las artes escenicas
+- Salir de la rutina
+- Quieren expresarse artisticamente
+- Desarrollarse personalmente, perdiendo la timidez o adquiriendo habilidades nuevas
+- Por diversion
+- Para dedicarse profesionalmente
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
