@@ -34,6 +34,7 @@ Miembros
 -----
 
 >>> Describe el plan de User Research (cómo se planteas)
+
 Razones por las cuales los usuarios podrían interesarse por ir a una escuela de teatro podrían ser:
 - Conocer gente nueva y trabajar en equipo
 - Inquietud sobre las artes escenicas
