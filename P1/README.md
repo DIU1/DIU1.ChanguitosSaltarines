@@ -8,6 +8,6 @@
 - 2 User Journey Map  ( 1 por persona)
 - Revisión de Usabilidad 
 
-![Persona 1](P1/Persona #1.pngs)
+![Persona 1](P1/Persona #1.png)
 
 (valoración y conclusiones de esta etapa)
