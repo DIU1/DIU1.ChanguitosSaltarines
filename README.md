@@ -58,6 +58,9 @@ Hemos escogido estos casos porque tienen una gran capacidad de autodescubrimient
 - Alana del Rey
 ![Alana del Rey Journey Map](P1/Journey%20map1.png)
 
+- Juan Oeste
+![Juan Oeste Journey Map](P1/Journey%20map2.png)
+
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
