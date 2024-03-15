@@ -59,21 +59,18 @@ Hemos escogido estos casos porque tienen una gran capacidad de autodescubrimient
 ![Alana del Rey Journey Map](P1/Journey%20map1.png)
 
 - Juan Oeste
-![Juan Oeste Journey Map](P1/Journey%20map2.png)
+![Juan Oeste Journey Map](P1/Jorney%20map2.png)
 
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
- Hemos realizamos un análisis más exhaustivo del teatro Remiendo mediante una revision de usabilidad que se puede encontrar [Usability review](P1/Usability-review.xlsx).
 
->>> La web tiene algunas cosas bastante buenas, pero muchas cosas en las que mejorar. Como aspecto más destacable y grave, el tema de que la web tarde mucho en cargar y cada vez que esta carga aparezca el logo de la web con un simbolo de cargar lo que hace que la gente pierda interes.
+Hemos realizamos un análisis más exhaustivo del teatro Remiendo mediante una revision de usabilidad que se puede encontrar [Usability review](P1/Usability-review.xlsx).
+
+>>> Durante la evaluación, notamos que la prolongada carga de la página, junto con la aparición repetida del logo de la web con un símbolo de carga, puede resultar en una disminución significativa del interés del usuario, subrayando la urgencia de abordar estos problemas de rendimiento para mejorar la experiencia general del usuario.
 
 ![Nota review](img/nota-review.png)
+
 
 ## Paso 2. UX Design  
 
