@@ -44,7 +44,12 @@ Hemos decidido hacer el analisis competitivo escogiendo la web base del guion ht
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 En primer lugar hemos creado a Alana, Una persona que no estaba contenta con su situacion y sus estudios y decide dejar todo atras y mudarse a Granada para perseguir su sueño y tomar clases de teatro.
+
 ![Alana del Rey](/P1/Persona1.png)
+
+Luego hemos creado a Juan Oeste, era un apasionado de los deportes y esta en ultimo año de la carrera de ciencias del deporte y la actividad fisica pero debido a una lesion va tener que dejar de hacer deporte por un largo tiempo por lo que decide buscar otra actividad como es el doblaje.
+
+![Juan Oeste](/P1/Persona2.png)
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
