@@ -3,7 +3,7 @@
 ![Método UX](../img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> De entre las 2 plataformas para actividades turisticas estudiaremos más a fondo escuela de teatro y doblaje remiendo proque nos resulta una pagina mas interesante. [Pincha para ver]("https://github.com/DIU1/DIU1.ChanguitosSaltarines/blob/master/P1/Desk%20Research.pdf")
+>>> De entre las 2 plataformas para actividades turisticas estudiaremos más a fondo escuela de teatro y doblaje remiendo proque nos resulta una pagina mas interesante. [Pincha para ver](https://github.com/DIU1/DIU1.ChanguitosSaltarines/blob/master/P1/Desk%20Research.pdf)
 
 ![Método UX](../img/Persona.png) 1.b Persona
 -----
