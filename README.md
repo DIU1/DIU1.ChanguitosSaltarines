@@ -35,12 +35,13 @@ Razones por las cuales los usuarios podrían interesarse por ir a una escuela de
 - Desarrollarse personalmente, perdiendo la timidez o adquiriendo habilidades nuevas
 - Por diversion
 - Para dedicarse profesionalmente
-[Pulsa aqui para verlo](https://github.com/DIU1/DIU1.ChanguitosSaltarines/blob/master/P1/Desk%20Research.pdf)
+[Pulsa aqui para verlo](https://github.com/DIU1/DIU1.ChanguitosSaltarines/blob/master/P1/User%20Research.pdf)
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 Hemos decidido hacer el analisis competitivo escogiendo la web base del guion https://escueladeteatroengranada.es/ y como competidores hemos elegido uno mas directo que es https://www.escuelapetite.com/ situado aquí mismo en granada y otro a nivel nacional https://estudiocorazza.com/.
-[Pulsa aqui para verlo]()
+
+[Pulsa aqui para verlo](https://github.com/DIU1/DIU1.ChanguitosSaltarines/blob/master/P1/Desk%20Research.pdf)
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
