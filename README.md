@@ -53,9 +53,11 @@ Luego hemos creado a Juan Oeste, era un apasionado de los deportes y esta en ult
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
+Hemos escogido estos casos porque tienen una gran capacidad de autodescubrimiento para nuestras personas y como se adaptan cada uno a experiencias a las que no estan aconstumbrados.
 
+- Alana del Rey
+![Alana del Rey Journey Map](P1/Journey%map1.png)
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
