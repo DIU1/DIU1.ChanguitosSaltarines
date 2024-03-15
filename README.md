@@ -27,7 +27,6 @@ Miembros
 
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
-
 Razones por las cuales los usuarios podrían interesarse por ir a una escuela de teatro podrían ser:
 - Conocer gente nueva y trabajar en equipo
 - Inquietud sobre las artes escenicas
@@ -36,18 +35,20 @@ Razones por las cuales los usuarios podrían interesarse por ir a una escuela de
 - Desarrollarse personalmente, perdiendo la timidez o adquiriendo habilidades nuevas
 - Por diversion
 - Para dedicarse profesionalmente
+[Pulsa aqui para verlo](https://github.com/DIU1/DIU1.ChanguitosSaltarines/blob/master/P1/Desk%20Research.pdf)
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 Hemos decidido hacer el analisis competitivo escogiendo la web base del guion https://escueladeteatroengranada.es/ y como competidores hemos elegido uno mas directo que es https://www.escuelapetite.com/ situado aquí mismo en granada y otro a nivel nacional https://estudiocorazza.com/.
+[Pulsa aqui para verlo]()
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
-En primer lugar hemos creado a Alana, Una persona que no estaba contenta con su situacion y sus estudios y decide dejar todo atras y mudarse a Granada para perseguir su sueño y tomar clases de teatro.
+En primer lugar hemos creado a [Alana del Rey](https://github.com/DIU1/DIU1.ChanguitosSaltarines/blob/master/P1/Persona1.png), Una persona que no estaba contenta con su situacion y sus estudios y decide dejar todo atras y mudarse a Granada para perseguir su sueño y tomar clases de teatro.
 
 ![Alana del Rey](/P1/Persona1.png)
 
-Luego hemos creado a Juan Oeste, era un apasionado de los deportes y esta en ultimo año de la carrera de ciencias del deporte y la actividad fisica pero debido a una lesion va tener que dejar de hacer deporte por un largo tiempo por lo que decide buscar otra actividad como es el doblaje.
+Luego hemos creado a [Juan Oeste](https://github.com/DIU1/DIU1.ChanguitosSaltarines/blob/master/P1/Persona2.png), era un apasionado de los deportes y esta en ultimo año de la carrera de ciencias del deporte y la actividad fisica pero debido a una lesion va tener que dejar de hacer deporte por un largo tiempo por lo que decide buscar otra actividad como es el doblaje.
 
 ![Juan Oeste](/P1/Persona2.png)
 
@@ -55,10 +56,10 @@ Luego hemos creado a Juan Oeste, era un apasionado de los deportes y esta en ult
 ----
 Hemos escogido estos casos porque tienen una gran capacidad de autodescubrimiento para nuestras personas y como se adaptan cada uno a experiencias a las que no estan aconstumbrados.
 
-- Alana del Rey
+- [Alana del Rey](https://github.com/DIU1/DIU1.ChanguitosSaltarines/blob/master/P1/Journey%20map1.png)
 ![Alana del Rey Journey Map](P1/Journey%20map1.png)
 
-- Juan Oeste
+- [Juan Oeste](https://github.com/DIU1/DIU1.ChanguitosSaltarines/blob/master/P1/Jorney%20map2.png)
 ![Juan Oeste Journey Map](P1/Jorney%20map2.png)
 
 
