@@ -69,7 +69,11 @@ Hemos escogido estos casos porque tienen una gran capacidad de autodescubrimient
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
+ Hemos realizamos un análisis más exhaustivo del teatro Remiendo mediante una revision de usabilidad que se puede encontrar [Usability review](P1/Usability-review.xlsx).
 
+>>> La web tiene algunas cosas bastante buenas, pero muchas cosas en las que mejorar. Como aspecto más destacable y grave, el tema de que la web tarde mucho en cargar y cada vez que esta carga aparezca el logo de la web con un simbolo de cargar lo que hace que la gente pierda interes.
+
+![Nota review](img/nota-review.png)
 
 ## Paso 2. UX Design  
 
