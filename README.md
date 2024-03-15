@@ -15,12 +15,10 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   Victor Casalini González     🐵     
+ * :bust_in_silhouette:   Victor Casalini González  🐵     
  * :bust_in_silhouette:  Joaquín Salas Castillo     🐵
 
------ 
-
-
+-----
 
 # Proceso de Diseño 
 
@@ -29,8 +27,6 @@ Miembros
 
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
-
->>> Describe el plan de User Research (cómo se planteas)
 
 Razones por las cuales los usuarios podrían interesarse por ir a una escuela de teatro podrían ser:
 - Conocer gente nueva y trabajar en equipo
@@ -47,8 +43,8 @@ Hemos decidido hacer el analisis competitivo escogiendo la web base del guion ht
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
-
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+En primer lugar hemos creado a Alana, Una persona que no estaba contenta con su situacion y sus estudios y decide dejar todo atras y mudarse a Granada para perseguir su sueño y tomar clases de teatro.
+![Alana del Rey](/P1/Persona1.png)
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
