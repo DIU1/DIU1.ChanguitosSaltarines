@@ -110,6 +110,7 @@ En este apartado vamos a definir la secuencia de pasos que los usuarios tendrán
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
+Mapa del sitio que indica las distintas vistas que tendrá la aplicación y cómo se navega de unas a otras y labelling o etiquetadocde nuestro sitio web
 ![sitemap](P2/Sitemap.png)
 
 [labelling](P2/Labelling.pdf)
