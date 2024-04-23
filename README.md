@@ -99,29 +99,26 @@ Hemos realizamos un análisis más exhaustivo del teatro Remiendo mediante una r
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>> Propuesta de valor
+>>> [ScopeCanvas](P2/scope_canvas_resumen.pptx.pdf)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> [Task analysis y userflow](P2/Task%Analisys.pdf)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
+[sitemap](P2/Sitemap.png)
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+[labelling](P2/Labelling.pdf)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+[wireframes]()
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
