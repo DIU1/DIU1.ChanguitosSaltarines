@@ -82,8 +82,8 @@ Hemos realizamos un análisis más exhaustivo del teatro Remiendo mediante una r
 ----
   
 Entre las dos posibilidades nos hemos decidido por por hacer el empathy map para analizar el comportamiento de los usuarios que van a usar la aplicación.
-![Empathy map](P2/Empathy%Customer%Map.png)
-Tambien puedes consultarlo [aqui](P2/Empathy%Map.pdf)
+![Empathy map](P2/Empathy%Customer%20Map.png)
+Tambien puedes consultarlo [aqui](P2/Empathy%20Map.pdf)
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
@@ -94,7 +94,7 @@ Tambien puedes consultarlo [aqui](P2/Empathy%Map.pdf)
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 En este apartado vamos a definir la secuencia de pasos que los usuarios tendrán que realizar para llevar a cabo las principales tareas que la aplicación permite.
->>> [Task analysis y userflow](P2/Task%Analisys.pdf)
+>>> [Task analysis y userflow](P2/Task%20Analisys.pdf)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
