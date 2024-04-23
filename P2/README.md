@@ -24,7 +24,8 @@ Se realiza el presente estudio con la finalidad de tener un punto de partida par
 >>> Tras analizar todas estas conclusiones, hemos decido hacer una aplicación sencilla, intuitiva y rápida que girara en torno a los eventos de batallas de gallos. 
 [sitemap](Sitemap.png)
 
-* Labelling 
+* Labelling
+>>> [Labelling](Labelling.pdf)
 
 
 ### Prototipo Lo-FI Wireframe 
