@@ -29,7 +29,8 @@ Se realiza el presente estudio con la finalidad de tener un punto de partida par
 
 
 ### Prototipo Lo-FI Wireframe 
-
+>>> [wireframe_home](boceto_home.png)
+>>> [wireframe eventos](boceto_eventos.png)
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
