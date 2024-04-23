@@ -104,13 +104,13 @@ Hemos realizamos un análisis más exhaustivo del teatro Remiendo mediante una r
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
-
+En este apartado vamos a definir la secuencia de pasos que los usuarios tendrán que realizar para llevar a cabo las principales tareas que la aplicación permite.
 >>> [Task analysis y userflow](P2/Task%Analisys.pdf)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-[sitemap](P2/Sitemap.png)
+![sitemap](P2/Sitemap.png)
 
 [labelling](P2/Labelling.pdf)
 
