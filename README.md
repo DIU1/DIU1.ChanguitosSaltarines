@@ -82,7 +82,9 @@ Hemos realizamos un análisis más exhaustivo del teatro Remiendo mediante una r
 ----
   
 Entre las dos posibilidades nos hemos decidido por por hacer el empathy map para analizar el comportamiento de los usuarios que van a usar la aplicación.
-![Empathy map](P2/Empathy%Customer%20Map.png)
+
+![Empathy map](P2/Empathy%20Customer%20Map.png)
+
 Tambien puedes consultarlo [aqui](P2/Empathy%20Map.pdf)
 
 
