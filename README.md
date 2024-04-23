@@ -121,8 +121,10 @@ Mapa del sitio que indica las distintas vistas que tendrá la aplicación y cóm
 Inicialmente hemos realizado unos bocetos a mano y unos Wireframe centrandonos principalmente en como es van a distribuir los elementos en las distintas vistas.
 A partir de lo anterior hemos realizado un grid layout con un diseño responsive utilizando el plugin breakpoint, en las siguinetes imagenes se puede ver el apartado
 home y eventos con distintos tamaños.
-![wireframes_home](/P2/bocetos_home.png)
-![wireframes_eventos](/P2/bocetos_eventos.png)
+>>> Home
+![wireframes_home](/P2/boceto_home.png)
+>>> Eventos
+![wireframes_eventos](/P2/boceto_eventos.png)
 
 
 
