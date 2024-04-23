@@ -80,21 +80,10 @@ Hemos realizamos un análisis más exhaustivo del teatro Remiendo mediante una r
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
-
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
   
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
+Entre las dos posibilidades nos hemos decidido por por hacer el empathy map para analizar el comportamiento de los usuarios que van a usar la aplicación.
+![Empathy map](P2/Empathy%Customer%Map.png)
+Tambien puedes consultarlo [aqui](P2/Empathy%Map.pdf)
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
@@ -112,7 +101,7 @@ En este apartado vamos a definir la secuencia de pasos que los usuarios tendrán
 ----
 Mapa del sitio que indica las distintas vistas que tendrá la aplicación y cómo se navega de unas a otras y labelling o etiquetadocde nuestro sitio web
 ![sitemap](P2/Sitemap.png)
-
+Para una mayor comodidad se ha creado una jerarquía principal para tener una vista principal y luego poder analizar cada sector por separado.
 [labelling](P2/Labelling.pdf)
 
 
