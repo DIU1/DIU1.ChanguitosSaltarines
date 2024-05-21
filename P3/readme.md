@@ -6,9 +6,12 @@
 
 ## Landing Page
 
+![Landing Page](Landing_page.png)
+
 
 ## Mockup: LAYOUT HI-FI
 
+![moodboard](moodboard.png)
 
 ## Documentación: Publicación del Case Study
 
