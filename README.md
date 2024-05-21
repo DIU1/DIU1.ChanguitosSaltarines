@@ -135,13 +135,15 @@ home y eventos con distintos tamaños.
 
 
 >>> Esta va a ser nuestra pagina principal
->>> ![Landing PAge](P3/LandingPage.png)
+>>> ----
+>>> ![Landing Page](P3/LandingPage.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
 >>> Aqui se puede consultar informacion sobre nuestra [Guideline](GUIDELINES.pdf)
->>> [Guideline](P3/Guidelines.png)
+>>> ----
+>>> ![Guideline](P3/Guidelines.png)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
