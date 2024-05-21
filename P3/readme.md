@@ -15,6 +15,5 @@
 
 ## Documentación: Publicación del Case Study
 
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+![Layout HiFI](Layout%20Hi-Fi.png)
  
