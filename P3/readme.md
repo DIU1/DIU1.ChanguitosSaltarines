@@ -6,7 +6,7 @@
 
 ## Landing Page
 
-![Landing Page](LandingPage.png)
+![Landing Page](Landing.png)
 
 
 ## Mockup: LAYOUT HI-FI
