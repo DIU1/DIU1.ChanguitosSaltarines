@@ -145,6 +145,11 @@ home y eventos con distintos tamaños.
 >>> ----
 >>> ![Guideline](P3/guidelines.png)
 
+ 4. Layout Hi-Fi
+----
+
+![Layout HiFI](P3/Layout%20Hi-Fi.png)
+
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
