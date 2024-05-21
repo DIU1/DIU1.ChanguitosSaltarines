@@ -141,9 +141,9 @@ home y eventos con distintos tamaños.
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Aqui se puede consultar informacion sobre nuestra [Guideline](GUIDELINES.pdf)
+>>> Aqui se puede consultar informacion sobre nuestra [Guideline](P3/GUIDELINES.pdf)
 >>> ----
->>> ![Guideline](P3/Guidelines.png)
+>>> ![Guideline](P3/guidelines.png)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
