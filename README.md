@@ -136,7 +136,7 @@ home y eventos con distintos tamaños.
 
 >>> Esta va a ser nuestra pagina principal
 >>> ----
->>> ![Landing Page](P3/LandingPage.png)
+>>> ![Landing Page](P3/Landing.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
