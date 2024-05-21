@@ -126,22 +126,22 @@ home y eventos con distintos tamaños.
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>>> Este es nuestro moodboard para nuestra app
+>>> ![Moodboard](P3/moodboard.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 
->>> Plantear Landing Page 
+>>> Esta va a ser nuestra pagina principal
+>>> ![Landing PAge](P3/LandingPage.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> Aqui se puede consultar informacion sobre nuestra [Guideline](GUIDELINES.pdf)
+>>> [Guideline](P3/Guidelines.png)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
