@@ -4,9 +4,9 @@
 
 ![moodboard](moodboard.png)
 
-## Landing Page
+## Guidelines
 
-![Landing Page](Landing.png)
+![Guidelines](guidelines.png)
 
 
 ## Mockup: LAYOUT HI-FI
