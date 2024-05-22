@@ -6,12 +6,12 @@
 
 ## Guidelines
 
-![Guidelines](guidelines.png)
+![Landing Page](Landing.png)
 
 
 ## Mockup: LAYOUT HI-FI
 
-![moodboard](moodboard.png)
+![guidelines](guidelines.png)
 
 ## Documentación: Publicación del Case Study
 
