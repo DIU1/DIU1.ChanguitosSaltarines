@@ -4,7 +4,7 @@
 
 ![moodboard](moodboard.png)
 
-## Guidelines
+## Landing Page
 
 ![Landing Page](Landing.png)
 
