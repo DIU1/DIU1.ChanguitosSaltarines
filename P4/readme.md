@@ -10,7 +10,10 @@ Lista de grupos
 * Tareas realizadas
   
 ** Tarea 1 ; Observar la pagina principal
-![AB_testing](/img/principal_a.png)  ![AB_testing](/img/principal_lib.png)
+
+![](/img/principal_a.png) 
+![](/img/principal_lib.png)
+
 ** Tarea 2 ; Para la nuestra navegar hasta el buscador de la pagina para la de los compañeros hasta el contacto
 
 ** Tarea 3 ; Para la nuestra navegar hasta los eventos de la pagina para la de los compañeros hasta el catalogo
