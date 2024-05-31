@@ -28,23 +28,23 @@ Tarea 3 ; Para la nuestra navegar hasta los eventos de la pagina para la de los 
 
 Tarea 1 ; Observar la pagina principal
 
-| ![](img/principal_a_h1.png) | ![](img/principal_lib.png) |
+| ![](img/4.png) | ![](img/principal_lib.png) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](img/principal_b_h1.png)| ![](img/principal_lib.png) |
+| ![](img/5.png)| ![](img/principal_lib.png) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
 
 Tarea 2 ; Para la nuestra navegar hasta el buscador de la pagina para la de los compañeros hasta el contacto
 
-| ![](img/buscar_a_h1.png) | ![](img/contacto_a.png) |
+| ![](img/3.png) | ![](img/contacto_a.png) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](img/contacto_a_h1.png) | ![](img/contacto_a.png) |
+| ![](img/2.png) | ![](img/contacto_a.png) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
 
 Tarea 3 ; Para la nuestra navegar hasta los eventos de la pagina para la de los compañeros hasta el catalogo
 
-| ![](img/eventos_a_h1.png) | ![](img/catalogo_b.png) |
+| ![](img/1.png) | ![](img/catalogo_b.png) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](img/catalogo_b_h1.png)| ![](img/catalogo_b.png) |
+| ![](img/6.png)| ![](img/catalogo_b.png) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
 
 * Usability Report de Caso B
