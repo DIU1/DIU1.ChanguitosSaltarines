@@ -8,6 +8,9 @@ Lista de grupos
 ![AB_testing](AB_testing.png)
 
 * Tareas realizadas 
+** Tarea 1 ; Observar la pagina principal
+** Tarea 2 ; Para la nuestra navegar hasta el buscador de la pagina para la de los compañeros hasta el contacto
+** Tarea 3 ; Para la nuestra navegar hasta los eventos de la pagina para la de los compañeros hasta el catalogo
 
 
 * Usability Report de Caso B
