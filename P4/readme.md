@@ -11,17 +11,35 @@ Lista de grupos
   
 ** Tarea 1 ; Observar la pagina principal
 
-![](img/principal_a.png) ![](img/principal_lib.png)
 | ![](img/principal_a.png) | ![](img/principal_lib.png) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
 
 ** Tarea 2 ; Para la nuestra navegar hasta el buscador de la pagina para la de los compañeros hasta el contacto
 
-![](img/buscar_a.png) ![](img/contacto_a.png)
+| ![](img/buscar_a.png) | ![](img/contacto_a.png) |
+|:--------------------------------------------------:|:--------------------------------------------------:|
 
 ** Tarea 3 ; Para la nuestra navegar hasta los eventos de la pagina para la de los compañeros hasta el catalogo
 
-![](img/eventos_a.png) ![](img/catalogo_b.png)
+| ![](img/eventos_a.png) | ![](img/catalogo_b.png) |
+|:--------------------------------------------------:|:--------------------------------------------------:|
+
+* Resultados (izquierda experto ; derecha usuario )
+
+** Tarea 1 ; Observar la pagina principal
+
+| ![](img/principal_a.png) | ![](img/principal_lib.png) |
+|:--------------------------------------------------:|:--------------------------------------------------:|
+
+** Tarea 2 ; Para la nuestra navegar hasta el buscador de la pagina para la de los compañeros hasta el contacto
+
+| ![](img/buscar_a.png) | ![](img/contacto_a.png) |
+|:--------------------------------------------------:|:--------------------------------------------------:|
+
+** Tarea 3 ; Para la nuestra navegar hasta los eventos de la pagina para la de los compañeros hasta el catalogo
+
+| ![](img/eventos_a.png) | ![](img/catalogo_b.png) |
+|:--------------------------------------------------:|:--------------------------------------------------:|
 
 * Usability Report de Caso B
 * Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
