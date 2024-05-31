@@ -47,6 +47,10 @@ Tarea 3 ; Para la nuestra navegar hasta los eventos de la pagina para la de los 
 | ![](img/6.png)| ![](img/catalogo_b.png) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
 
+* SUS Cuestionary
+
+  ![AB_testing](test_AB_propia.png)
+  
 * Usability Report de Caso B
 * Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 
