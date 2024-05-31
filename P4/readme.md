@@ -28,23 +28,23 @@ Tarea 3 ; Para la nuestra navegar hasta los eventos de la pagina para la de los 
 
 Tarea 1 ; Observar la pagina principal
 
-| ![](img/4.png) | ![](img/principal_lib.png) |
+| ![](img/4.png) | ![](img/10.png) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](img/5.png)| ![](img/principal_lib.png) |
+| ![](img/5.png)| ![](img/11.png) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
 
 Tarea 2 ; Para la nuestra navegar hasta el buscador de la pagina para la de los compañeros hasta el contacto
 
-| ![](img/3.png) | ![](img/contacto_a.png) |
+| ![](img/3.png) | ![](img/9.png) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](img/2.png) | ![](img/contacto_a.png) |
+| ![](img/2.png) | ![](img/8.png) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
 
 Tarea 3 ; Para la nuestra navegar hasta los eventos de la pagina para la de los compañeros hasta el catalogo
 
-| ![](img/1.png) | ![](img/catalogo_b.png) |
+| ![](img/1.png) | ![](img/7.png) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](img/6.png)| ![](img/catalogo_b.png) |
+| ![](img/6.png)| ![](img/12.png) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
 
 * SUS Cuestionary
