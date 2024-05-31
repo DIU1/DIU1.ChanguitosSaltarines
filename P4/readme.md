@@ -16,8 +16,13 @@ Lista de grupos
 
 ** Tarea 2 ; Para la nuestra navegar hasta el buscador de la pagina para la de los compañeros hasta el contacto
 
+![](/img/buscar_a.png) 
+![](/img/contacto_a.png)
+
 ** Tarea 3 ; Para la nuestra navegar hasta los eventos de la pagina para la de los compañeros hasta el catalogo
 
+![](/img/eventos_a.png) 
+![](/img/catalogo_b.png)
 
 * Usability Report de Caso B
 * Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
