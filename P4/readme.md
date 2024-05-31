@@ -9,36 +9,42 @@ Lista de grupos
 
 * Tareas realizadas
   
-** Tarea 1 ; Observar la pagina principal
+Tarea 1 ; Observar la pagina principal
 
 | ![](img/principal_a.png) | ![](img/principal_lib.png) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
 
-** Tarea 2 ; Para la nuestra navegar hasta el buscador de la pagina para la de los compañeros hasta el contacto
+Tarea 2 ; Para la nuestra navegar hasta el buscador de la pagina para la de los compañeros hasta el contacto
 
 | ![](img/buscar_a.png) | ![](img/contacto_a.png) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
 
-** Tarea 3 ; Para la nuestra navegar hasta los eventos de la pagina para la de los compañeros hasta el catalogo
+Tarea 3 ; Para la nuestra navegar hasta los eventos de la pagina para la de los compañeros hasta el catalogo
 
 | ![](img/eventos_a.png) | ![](img/catalogo_b.png) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
 
 * Resultados (izquierda experto ; derecha usuario )
 
-** Tarea 1 ; Observar la pagina principal
+Tarea 1 ; Observar la pagina principal
 
-| ![](img/principal_a.png) | ![](img/principal_lib.png) |
+| ![](img/principal_a_h1.png) | ![](img/principal_lib.png) |
+|:--------------------------------------------------:|:--------------------------------------------------:|
+| ![](img/principal_b_h1.png)| ![](img/principal_lib.png) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
 
-** Tarea 2 ; Para la nuestra navegar hasta el buscador de la pagina para la de los compañeros hasta el contacto
+Tarea 2 ; Para la nuestra navegar hasta el buscador de la pagina para la de los compañeros hasta el contacto
 
-| ![](img/buscar_a.png) | ![](img/contacto_a.png) |
+| ![](img/buscar_a_h1.png) | ![](img/contacto_a.png) |
+|:--------------------------------------------------:|:--------------------------------------------------:|
+| ![](img/contacto_a_h1.png) | ![](img/contacto_a.png) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
 
-** Tarea 3 ; Para la nuestra navegar hasta los eventos de la pagina para la de los compañeros hasta el catalogo
+Tarea 3 ; Para la nuestra navegar hasta los eventos de la pagina para la de los compañeros hasta el catalogo
 
-| ![](img/eventos_a.png) | ![](img/catalogo_b.png) |
+| ![](img/eventos_a_h1.png) | ![](img/catalogo_b.png) |
+|:--------------------------------------------------:|:--------------------------------------------------:|
+| ![](img/catalogo_b_h1.png)| ![](img/catalogo_b.png) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
 
 * Usability Report de Caso B
