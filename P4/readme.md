@@ -4,7 +4,7 @@
 Revisar [Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)
 Lista de grupos 
 
-* [A/B Testing](Cuestionario%20SUS%20DIU%20(1).xlsx). 
+* [A/B Testing](Cuestionario%20SUS%20DIU.xlsx). 
 ![AB_testing](AB_testing.png)
 
 * Tareas realizadas
